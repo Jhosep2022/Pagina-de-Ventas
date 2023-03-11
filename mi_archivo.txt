@@ -1,1 +1,2 @@
-Hola FreeCodeCamp! hola pendex en los caminos
+Hola FreeCodeCamp! hola pendex en los caminos'
+Estoy aprendiendo git.
