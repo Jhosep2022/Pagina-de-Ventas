@@ -1,2 +1,0 @@
-Hola FreeCodeCamp! cambio de version-js'
-Estoy aprendiendo git.
